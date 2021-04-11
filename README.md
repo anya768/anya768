@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there 👋
+## Anna Mikhaleva, N41513c
 
 <!--
 **anya768/anya768** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Cute bird:
+<img src="https://user-images.githubusercontent.com/82313956/114301031-89733700-9acb-11eb-813e-c5846720ccc6.jpg" width="300">
+
+### Backstage:
+<img src="https://user-images.githubusercontent.com/82313956/114301029-84ae8300-9acb-11eb-8e36-1acaa5afde1c.jpg" width="300">
+
